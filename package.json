@@ -1,0 +1,23 @@
+{
+  "name": "dirt-lang",
+  "version": "0.0.1",
+  "description": "Dirt language. Much less useful than actual dirt.",
+  "preferGlobal": true,
+  "private": true,
+  "bin" : {
+    "dirt-lang" : "./index.js"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zekesonxx/dirt-lang.git"
+  },
+  "author": "Zeke Sonxx <github.com/zekesonxx>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zekesonxx/dirt-lang/issues"
+  },
+  "homepage": "https://github.com/zekesonxx/dirt-lang",
+  "dependencies": {
+    "minimist": "0.0.8"
+  }
+}
